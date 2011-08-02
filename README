@@ -1,0 +1,14 @@
+Welcome to PythonRadio
+
+A commandline python frontend to mplayer with a list of popular internet radios.
+
+Please feel free to add your favorite internet stations to the list.
+
+Installation of PythonRadio requires mplayer to be installed on your system
+for example "apt-get install mplayer" will work for debian based systems.
+
+Ensure you have pythonradio in your $PATH usally located on a sane system in your .bashrc
+
+PATH="$PATH:/home/davro/workspace/project-pythonradio/bin"
+
+
